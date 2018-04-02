@@ -21,4 +21,5 @@ Ajax folder - contains the mini-calculator class that calls the PolicyFactory
  controller folder - contains the PolicyController and the PolicyFactory Classes
 
  css - contains the bootstrap styles for Theming
+ 
  js - contains the Bootstrap JS files, and the script.js which post the value from the Modal box on index.php, and displays the formatted output in the DIV tag in the frontend
